@@ -5,3 +5,6 @@ MySQL, Node.js and Inquirer
 
 # Installation
 npm i , npm install will both suffice for install.
+
+# Video
+https://youtube.com/shorts/F1tPG5WchUE?feature=share
